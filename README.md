@@ -1,8 +1,8 @@
-##HealthCheck BMI Calculator
+## HealthCheck BMI Calculator
 
 A simple Python project that calculates Body Mass Index (BMI) using a user's weight and height.
 
-Features
+## Features
 
 - Calculate BMI instantly
 - Height input in centimeters (cm)
@@ -12,13 +12,13 @@ Features
 
 ---
 
-Technologies Used
+## Technologies Used
 
 - Python
 
 ---
 
-Concepts Used
+## Concepts Used
 
 This project uses:
 
@@ -31,13 +31,13 @@ This project uses:
 
 ---
 
-Formula Used
+## Formula Used
 
 BMI is calculated using the following formula:
 
 BMI = Weight (kg) / Height² (m²)
 
-Example:
+## Example:
 
 Weight = 63 kg
 
@@ -49,7 +49,7 @@ BMI = 19.44
 
 ---
 
-Installation
+## Installation
 
 1. Install Python from https://www.python.org/
 2. Download or clone this repository.
@@ -58,13 +58,13 @@ Installation
 
 ---
 
-How to Run
+## How to Run
 
 python main.py
 
 ---
 
-How It Works
+## How It Works
 
 1. User enters weight in kilograms.
 2. User enters height in centimeters.
@@ -74,7 +74,7 @@ How It Works
 
 ---
 
-BMI Categories
+## BMI Categories
 
 BMI Range| Category
 Below 18.5| Underweight
@@ -84,7 +84,7 @@ Below 18.5| Underweight
 
 ---
 
-Example Output
+## Example Output
 
 ===== BMI Calculator =====
 
@@ -115,5 +115,5 @@ Future Improvements
 
 ---
 
-Author
+## Author
 https://github.com/ayush893singh
