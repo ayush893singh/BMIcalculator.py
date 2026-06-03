@@ -1,4 +1,4 @@
-HealthCheck BMI Calculator
+##HealthCheck BMI Calculator
 
 A simple Python project that calculates Body Mass Index (BMI) using a user's weight and height.
 
