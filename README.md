@@ -94,26 +94,5 @@ Enter your height (cm): 180
 Your BMI is: 19.44
 Category: Normal Weight
 
----
-
-Project Structure
-
-HealthCheck/
-│
-├── main.py
-└── README.md
-
----
-
-Future Improvements
-
-- Age-based recommendations
-- Gender selection
-- BMI history tracking
-- Graphical User Interface (GUI)
-- Health suggestions based on BMI
-
----
-
 ## Author
 https://github.com/ayush893singh
