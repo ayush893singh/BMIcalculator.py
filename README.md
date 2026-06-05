@@ -37,18 +37,6 @@ BMI is calculated using the following formula:
 
 BMI = Weight (kg) / Height² (m²)
 
-## Example:
-
-Weight = 63 kg
-
-Height = 180 cm = 1.80 m
-
-BMI = 63 / (1.80 × 1.80)
-
-BMI = 19.44
-
----
-
 ## Installation
 
 1. Install Python from https://www.python.org/
