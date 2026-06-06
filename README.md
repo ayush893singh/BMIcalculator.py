@@ -61,17 +61,6 @@ python main.py
 5. Program displays BMI value and health category.
 
 ---
-
-## BMI Categories
-
-BMI Range| Category
-Below 18.5| Underweight
-18.5 – 24.9| Normal Weight
-25 – 29.9| Overweight
-30 and above| Obese
-
----
-
 ## Example Output
 
 ===== BMI Calculator =====
